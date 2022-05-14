@@ -30,8 +30,6 @@ Aqui se mantem os conhecimentos atuais que estou tendo perante o **Desenvolvimen
 
 ---
 
-[ToC]
-
 
 
 
