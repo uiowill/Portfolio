@@ -1,7 +1,7 @@
 # :memo:Repositório de estudos
 Aqui se mantem os conhecimentos atuais que estou tendo perante o **Desenvolvimento Full Stack** :computer: 
 
-==O Repertório ainda está sendo concluido, espere mudanças futuras.==
+O Repertório ainda está sendo concluido, espere mudanças futuras.
 
 ---
 
