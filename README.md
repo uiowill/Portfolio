@@ -9,7 +9,7 @@ O Repertório ainda está sendo concluido, espere mudanças futuras.
 - [x] <a href="https://github.com/uiowill/Acquirements/blob/main/Html-Study">HTML</a>
 - [x] <a href="https://github.com/uiowill/Acquirements/blob/main/CSS-Study">CSS</a>
 - [ ] <a href="https://github.com/uiowill/Acquirements/blob/main/JavaScript-Study">JavaScript</a> 
-- [ ] <p>C#
+- [ ]  C#
 
 
 ##### `Lugares onde estou Aprendendo`
