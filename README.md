@@ -14,12 +14,12 @@ O Repertório ainda está sendo concluido, espere mudanças futuras.
 
 ##### `Lugares onde estou Aprendendo`
 
-> https://www.rocketseat.com.br <br>
-> https://www.dio.me <br>
-> https://www.sololearn.com <br>
-> https://startse.com/techacademy/ <br>
-> https://freecodecamp.org
-> SENAC
+> <p>https://www.rocketseat.com.br
+> <p>https://www.dio.me
+> <p>https://www.sololearn.com
+> <p>https://startse.com/techacademy/
+> <p>https://freecodecamp.org 
+> <p>SENAC
 
 ## Roadmap Backend
  - [ ] NodeJS
