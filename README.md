@@ -8,10 +8,9 @@ O Repertório ainda está sendo concluido, espere mudanças futuras.
 ## Roadmap Frontend
 - [x] <a href="https://github.com/uiowill/Acquirements/blob/main/Html-Study">HTML</a>
 - [x] <a href="https://github.com/uiowill/Acquirements/blob/main/CSS-Study">CSS</a>
-- [x] <a href="https://github.com/uiowill/Acquirements/blob/main/JavaScript-Study">JavaScript</a> 
-- [ ] TypeScript
-- [ ] React 
-- [ ] Angular
+- [ ] <a href="https://github.com/uiowill/Acquirements/blob/main/JavaScript-Study">JavaScript</a> 
+- [ ] C#
+
 
 ##### `Lugares onde estou Aprendendo`
 
@@ -20,13 +19,12 @@ O Repertório ainda está sendo concluido, espere mudanças futuras.
 > https://www.sololearn.com <br>
 > https://startse.com/techacademy/ <br>
 > https://freecodecamp.org
+> SENAC
 
 ## Roadmap Backend
  - [ ] NodeJS
- - [ ] Python
- - [ ] Django
 ## Roadmap Databases
-- [ ] Mysql
+- [ ] SQL LITE
 
 ---
 
